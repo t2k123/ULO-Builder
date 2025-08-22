@@ -23,10 +23,10 @@ rootfs_path="./rootfs"
 fwdriver_path="./core/root/lib"
 
 # Repositori dependensi ULO (Kernel, Rootfs Dasar, Driver Firmware)
-ulo_repo="armarchindo/ULO-repository"
+ulo_repo="t2k123/ULO-repository"
 
 # Repositori ROOTFS kustom pada rilis
-rootfs_repo="armarchindo/rootfs-openwrt"
+rootfs_repo="t2k123/rootfs-openwrt"
 
 # Atur ke 'true' untuk mengaktifkan, atau 'false' untuk menonaktifkan
 DOWNLOAD_CUSTOM_KERNEL=false
